@@ -1,0 +1,10 @@
+# Material local que não vai para o repositório
+# (cópia de referência da CargoKite, backups, arquivos não usados e vídeos grandes)
+_arquivo/
+
+# Sistema / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+__pycache__/
+*.pyc

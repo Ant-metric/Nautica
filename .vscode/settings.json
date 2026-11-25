@@ -1,0 +1,17 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.ignoreFiles": [
+    "_arquivo/**",
+    ".vscode/**",
+    "**/*.py",
+    "**/*.bat"
+  ],
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "search.exclude": {
+    "_arquivo/**": true,
+    "assets/js/**": true
+  }
+}
